@@ -1,0 +1,9 @@
+title: "Github Actionsでリポジトリ管理を自動化しよう"
+summary: "JavaScriptでGithub Actionsを作り、Githubのあれそれを自動化した時の備忘録的なものです"
+topics: ["Github Actions", "Node.js"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - はじめに
+  - GithubActionsとは

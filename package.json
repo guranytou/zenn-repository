@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-book-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guranytou/zenn-repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guranytou/zenn-repository/issues"
+  },
+  "homepage": "https://github.com/guranytou/zenn-repository#readme",
+  "dependencies": {
+    "npx": "^10.2.2",
+    "zenn-cli": "^0.1.66"
+  }
+}
