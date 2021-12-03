@@ -12,7 +12,7 @@ jobs:
   merge_schedule:
     runs-on: ubuntu-latest
     steps:
-      - uses: gr2m/merge-schedule-action@vv1.3.5
+      - uses: gr2m/merge-schedule-action@v1.3.5
         with:
           time_zone: "Asia/Tokyo"
         env:
