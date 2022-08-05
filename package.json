@@ -19,6 +19,6 @@
   "homepage": "https://github.com/guranytou/zenn-repository#readme",
   "dependencies": {
     "npx": "^10.2.2",
-    "zenn-cli": "^0.1.98"
+    "zenn-cli": "^0.1.116"
   }
 }
